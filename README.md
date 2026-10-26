@@ -43,8 +43,8 @@
 ### 🔥 Minhas estatísticas
 
 <div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=bear&hide_border=true" alt="Linguagens mais usadas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=bear&hide_border=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Folkss1&layout=compact&theme=bear&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Folkss1&show_icons=true&theme=bear&hide_border=true" alt="Estatísticas do GitHub"/>
 </div>
 
 
