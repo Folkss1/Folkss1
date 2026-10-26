@@ -2,7 +2,7 @@
 
 <img src="./gif git hub.gif" width="325px" align="right" alt="GIF de programação">
 
-# ❤️ Olá, bom ter você por aqui!
+#  Olá, seja bem vindo!
 
 ### 👨‍💻 Sobre mim
 
@@ -15,10 +15,10 @@
 ### 🌐 Minhas redes sociais
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vinicius-freitas-b36a272b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Folkss1">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
