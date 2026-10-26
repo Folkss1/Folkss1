@@ -1,82 +1,50 @@
 
-<div align="center">
 
-# Olá, eu sou Vinicius Borges! 👋
+<img src="./gif git hub.gif" width="325px" align="right" alt="GIF de programação">
 
-### 💻 Estudante de Engenharia de Software | Desenvolvedor em formação
+# ❤️ Olá, bom ter você por aqui!
 
-Apaixonado por tecnologia, programação e criação de soluções.
+### 👨‍💻 Sobre mim
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=0077B5&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil"/>
+- 🎓 Estudante de Engenharia de Software na Uni-FACEF
+- 💻 Apaixonado por tecnologia e programação
+- 🌱 Atualmente aprendendo JavaScript e Python
+- 🚀 Buscando evoluir como desenvolvedor
+- 📍 Franca - SP
 
+### 🌐 Minhas redes sociais
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+<br clear="both">
+
+---
+
+### 🛠️ Linguagens e ferramentas
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+### 🔥 Minhas estatísticas
 
-- 🎓 Cursando o 4º semestre de Engenharia de Software na Uni-FACEF.
-- 🌱 Estudando JavaScript, Python e desenvolvimento web.
-- 🛠️ Conhecimentos em HTML5, CSS3 e manutenção de computadores.
-- 🚀 Desenvolvendo projetos para aprimorar minhas habilidades.
-- 🎯 Objetivo: conquistar uma oportunidade como desenvolvedor de software.
-- 📍 Franca - SP, Brasil.
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
-
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=bear&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=bear&hide_border=true" alt="Estatísticas do GitHub"/>
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas"/>
-
-</div>
-
----
-
-## 🚀 Projetos em destaque
-
-### 🛍️ Catálogo Online
-
-Catálogo digital responsivo para apresentação de produtos, com foco em uma navegação simples e integração com WhatsApp.
-
-**Tecnologias:** HTML, CSS e JavaScript.
-
-<!-- Adicione aqui o link do projeto quando estiver publicado. -->
-
----
-
-## 📫 Entre em contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Sempre aprendendo, evoluindo e construindo novos projetos!
-
-</div>
 
